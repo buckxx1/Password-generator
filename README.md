@@ -1,1 +1,2 @@
 # Password Generator Starter Code
+<img width="1792" alt="Screen Shot 2021-03-10 at 2 40 11 PM" src="https://user-images.githubusercontent.com/67339036/110687957-12d2d900-81af-11eb-971a-acbf2f35aa88.png">

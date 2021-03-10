@@ -22,6 +22,7 @@ window.addEventListener('load', function() {
 function generateNewPassword() {
   var password = "";
 
+
   var allowed = {};
   if (uppers) password += rando(allowed.uppers = "QWERTYUIOPASDFGHJKLZXCVBNM");
   if (lowers) password += rando(allowed.lowers = "qwertyuiopasdfghjklzxcvbnm");
